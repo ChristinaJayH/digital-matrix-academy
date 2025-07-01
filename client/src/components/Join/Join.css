@@ -1,0 +1,110 @@
+
+.join-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh; 
+  padding: 2rem;
+  background-color: #ffffff;
+}
+
+.join-form {
+  width: 100%;
+  max-width: 600px;
+  background-color: #ffffff;
+  padding: 2.5rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.join-form h2 {
+  font-size: 2.5rem;      
+  font-weight: 800;        
+  color: #003049;          
+  margin-bottom: 1.5rem;
+  text-align: center;      
+}
+
+
+.join-form input,
+.join-form select,
+.join-form textarea {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.join-form button {
+  background-color: #f93d3a;
+  color: white;
+  font-weight: 700; 
+  padding: 0.5rem .5rem;
+  border: none;
+  border-radius: 20px;
+  font-size: 1rem;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.join-form button:hover {
+  background-color: #003049;
+}
+
+.checkbox-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.checkbox-group legend {
+  font-weight: 800;
+  font-size: 1.2rem;
+  color: #003049;
+  margin-bottom: 1.0rem;
+  grid-column: 1 / -1;
+}
+
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f5f5f5;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #222;
+  gap: 0.75rem;
+  transition: background-color 0.3s ease;
+}
+
+.checkbox-group input[type="checkbox"] {
+  transform: scale(1.2);
+  accent-color: #003049;
+}
+
+.checkbox-group label:hover {
+  background-color: #eaf1f7;
+  cursor: pointer;
+}
+.goals-label {
+  font-size: 1.2rem;
+  font-weight: 900 !important;
+  color: #003049;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+.form-label {
+  font-size: 1.2rem;
+  font-weight: 900;
+  color: #003049;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+

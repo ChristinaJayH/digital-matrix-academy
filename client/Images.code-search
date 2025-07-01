@@ -1,0 +1,28 @@
+# Query: Images
+# ContextLines: 1
+
+8 results - 4 files
+
+client\README.md:
+  23  
+  24: - Pill-style product/service cards with pricing and images
+  25  
+
+client\src\components\ContactForm\ContactForm.jsx:
+  2  import './ContactForm.css';
+  3: import contactImage from '../../assets/images/contactform.png';
+  4  
+
+client\src\components\Hero\Hero.jsx:
+  1  import React from 'react';
+  2: import arrowIcon from '../../assets/images/arrows.png';
+  3: import heroImage from '../../assets/images/school.png'; 
+  4  
+
+client\src\pages\ThankYou.jsx:
+  3  import Nav from '../components/Nav/Nav';
+  4: import consultingImg from '../assets/images/1on1.png';
+  5: import bootcampImg from '../assets/images/beginners.png';
+  6: import uiuxImg from '../assets/images/uiuxdesign.png';
+  7: import techCareersImg from '../assets/images/CareersTraining.png'
+  8  

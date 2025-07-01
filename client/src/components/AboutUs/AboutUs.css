@@ -1,0 +1,59 @@
+.about-page {
+  font-family: 'Poppins', sans-serif;
+  padding: 2rem;
+  color: #003049;
+}
+.about-contact-section {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid #ccc;
+}
+
+.about-header h1 {
+  font-size: 3rem;
+  margin-bottom: 4rem;
+  text-align: center;
+  color: #003049;
+    font-weight: 900;
+}
+
+.about-intro {
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  line-height: 1.6;
+  text-align: left;
+}
+
+.about-dropdowns {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.dropdown {
+  margin-bottom: 1rem;
+}
+
+.dropdown-title {
+  width: 100%;
+  background-color: #003049;
+  color: #ffffff;
+  border: none;
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.dropdown-title:hover {
+  background-color: #f93d3a;
+}
+
+.dropdown-content {
+  background-color: #f0f4f8;
+  padding: 1rem;
+  border-left: 4px solid #f93d3a;
+  border-radius: 0 0 8px 8px;
+}

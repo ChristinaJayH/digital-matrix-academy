@@ -1,0 +1,27 @@
+.home-info {
+  padding: 3rem 16rem;
+  background-color: #fff;
+  font-family: 'Poppins', sans-serif;
+  color: #003049;
+}
+
+.home-info-text {
+  max-width: 600px;
+  margin: 1 auto;
+}
+
+.home-info-text h2 {
+  font-size: 2rem;
+  font-weight: 600 !important;
+  margin-bottom: 2rem;
+  color: #003049;
+ 
+}
+
+.home-info-text p {
+  font-size: 1.1rem;
+  line-height: 2.0;
+  text-align: left; 
+  color: #003049;
+}
+
