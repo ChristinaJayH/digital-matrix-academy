@@ -89,6 +89,18 @@ ORIGINAL PROJECT
 
 https://github.com/DhananjaySisode/SchoolWebsite-React/tree/main/client/src 
 
+## Getting Started
 
+### Prerequisites
+- Node.js and npm installed
 
-Thank you for checking it out!
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ChristinaJayH/digital-matrix-academy.git
+   cd digital-matrix-academy/client
+
+npm install
+
+npm start
+
