@@ -30,7 +30,7 @@ The `AboutUs.jsx` component presents structured content about Digital Matrix Aca
 - **Dropdowns**: Each dropdown is dynamically rendered from a mapped array of content objects, demonstrating DRY principles and scalability for future content updates.
 - **Typography & Layout**: Consistent font styles and spacing align with global theming set in `Nav.css` and other shared styles.
 
-### Purpose
+### PURPOSE
 
 This page serves to:
 
@@ -38,13 +38,13 @@ This page serves to:
 - Enable user interaction via expandable Q&A-style content blocks.
 - Reuse global components like `Nav` for layout consistency across routes.
 
-### Screenshot
+### ABOUT US
 
 ![About Us Page](./screenshots/about-us.png)
 
 
 - Created a Join Page with a form to collect user data and assess interest level.
-### Join Form
+### JOIN FORM
 ![Join Form](./screenshots/join-form.png)
 
 Included the Contact Us form on both the Home and About pages for flexibility and accessibility.
