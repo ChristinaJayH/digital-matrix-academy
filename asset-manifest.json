@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/digital-matrix-academy/static/css/main.f1de1b00.chunk.css",
+    "main.css": "/digital-matrix-academy/static/css/main.df793a0c.chunk.css",
     "main.js": "/digital-matrix-academy/static/js/main.5d702ed5.chunk.js",
     "main.js.map": "/digital-matrix-academy/static/js/main.5d702ed5.chunk.js.map",
     "runtime-main.js": "/digital-matrix-academy/static/js/runtime-main.10b5c600.js",
@@ -8,7 +8,7 @@
     "static/js/2.515c1661.chunk.js": "/digital-matrix-academy/static/js/2.515c1661.chunk.js",
     "static/js/2.515c1661.chunk.js.map": "/digital-matrix-academy/static/js/2.515c1661.chunk.js.map",
     "index.html": "/digital-matrix-academy/index.html",
-    "static/css/main.f1de1b00.chunk.css.map": "/digital-matrix-academy/static/css/main.f1de1b00.chunk.css.map",
+    "static/css/main.df793a0c.chunk.css.map": "/digital-matrix-academy/static/css/main.df793a0c.chunk.css.map",
     "static/js/2.515c1661.chunk.js.LICENSE.txt": "/digital-matrix-academy/static/js/2.515c1661.chunk.js.LICENSE.txt",
     "static/media/1on1.7f3d5134.png": "/digital-matrix-academy/static/media/1on1.7f3d5134.png",
     "static/media/CareersTraining.6969787d.png": "/digital-matrix-academy/static/media/CareersTraining.6969787d.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.10b5c600.js",
     "static/js/2.515c1661.chunk.js",
-    "static/css/main.f1de1b00.chunk.css",
+    "static/css/main.df793a0c.chunk.css",
     "static/js/main.5d702ed5.chunk.js"
   ]
 }
